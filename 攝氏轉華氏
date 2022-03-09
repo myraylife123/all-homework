@@ -1,0 +1,7 @@
+main()
+{
+int c;
+    printf("攝氏:");
+    scanf("%d",&c);
+    printf("華氏:%d",c*9/5+32);
+}
